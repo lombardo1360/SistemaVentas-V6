@@ -16,5 +16,8 @@ namespace SitemaVentas.SistemaVentasDatos.Data
         public DbSet<Marca> Marca { get; set; }
         public DbSet<Producto> Producto { get; set; }
         public DbSet<UsuarioAplicacion> UsuarioAplicacion { get; set; }
+        public DbSet<BodegaProducto> BodegaProducto { get; set; }
+        public DbSet<Inventario> Inventario { get; set; }
+        public DbSet<InventarioDetalle> InventarioDetalle { get; set; }
     }
 }
