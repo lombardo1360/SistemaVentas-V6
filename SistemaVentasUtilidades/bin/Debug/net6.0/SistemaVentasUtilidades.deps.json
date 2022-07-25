@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SistemaVentasUtilidades/1.0.0": {
+        "runtime": {
+          "SistemaVentasUtilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaVentasUtilidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

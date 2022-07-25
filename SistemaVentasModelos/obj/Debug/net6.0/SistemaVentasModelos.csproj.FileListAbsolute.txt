@@ -1,0 +1,12 @@
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\bin\Debug\net6.0\SistemaVentasModelos.deps.json
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\bin\Debug\net6.0\SistemaVentasModelos.dll
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\bin\Debug\net6.0\SistemaVentasModelos.pdb
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\SistemaVentasModelos.csproj.AssemblyReference.cache
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\SistemaVentasModelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\SistemaVentasModelos.AssemblyInfoInputs.cache
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\SistemaVentasModelos.AssemblyInfo.cs
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\SistemaVentasModelos.csproj.CoreCompileInputs.cache
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\SistemaVentasModelos.dll
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\refint\SistemaVentasModelos.dll
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\SistemaVentasModelos.pdb
+C:\Users\lomba\source\repos\SitemaVentas\SistemaVentasModelos\obj\Debug\net6.0\ref\SistemaVentasModelos.dll

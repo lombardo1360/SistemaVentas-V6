@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SitemaVentas\\SistemaVentas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj",
+        "projectName": "SistemaVentas.Datos",
+        "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj",
+        "packagesPath": "C:\\Users\\lomba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentas.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lomba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\SistemaVentas.Modelos.csproj": {
+                "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\SistemaVentas.Modelos.csproj"
+              },
+              "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\SistemaVentas.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\SistemaVentas.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\SistemaVentas.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\SistemaVentas.Modelos.csproj",
+        "projectName": "SistemaVentas.Modelos",
+        "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\SistemaVentas.Modelos.csproj",
+        "packagesPath": "C:\\Users\\lomba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lomba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\SistemaVentas.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\SistemaVentas.Utilidades.csproj",
+        "projectName": "SistemaVentas.Utilidades",
+        "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\SistemaVentas.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\lomba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lomba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SitemaVentas\\SistemaVentas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SitemaVentas\\SistemaVentas.csproj",
+        "projectName": "SistemaVentas",
+        "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SitemaVentas\\SistemaVentas.csproj",
+        "packagesPath": "C:\\Users\\lomba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SitemaVentas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lomba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj": {
+                "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj"
+              },
+              "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\SistemaVentas.Modelos.csproj": {
+                "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasModelos\\SistemaVentas.Modelos.csproj"
+              },
+              "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\SistemaVentas.Utilidades.csproj": {
+                "projectPath": "C:\\Users\\lomba\\source\\repos\\SitemaVentas\\SistemaVentasUtilidades\\SistemaVentas.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
